@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-public class EnrolProduct {
+public class Product {
         private long enrollmentId;
 
         private long studentId;
@@ -19,7 +19,3 @@ public class EnrolProduct {
 
 
     }
-
-
-
-}
